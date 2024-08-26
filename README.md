@@ -1,4 +1,4 @@
 # sohamweb-demo
 This is my first Git repostory
 <br>
-Author-Soham (coder)
+Author-Soham Patil(coder)
